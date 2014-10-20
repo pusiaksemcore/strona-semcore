@@ -1,0 +1,4 @@
+strona-semcore
+==============
+
+Strona wizytówka
